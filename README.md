@@ -1,7 +1,7 @@
 # American Express Default Prediction
 
 ### ABOUT THIS PROJECT
-#### This project was based on an old Kaggle competition. My professor for a university course called 'INTERMEDIATE BUSINESS APPLICATIONS OF ANALYTICS' let us choose any competition that required machine learning to demonstrate our knowledge of logistic regression, linear regression, KNN, and SVM models. My partner and I choose the American Express Default Prediction which would use a logistic regression for the predictive model.
+#### This project was based on an old Kaggle competition. My professor for a university course called 'INTERMEDIATE BUSINESS APPLICATIONS OF ANALYTICS' let us choose any competition that required machine learning to demonstrate our knowledge of logistic regression, linear regression, KNN, and SVM models. My partner and I chose the American Express Default Prediction which would use a logistic regression for the predictive model.
 
 ### THE GOAL
 #### To predict the percent of American Express customers who would fulfill their payments and the percent of customers who would NOT (becoming subject to a default event). Y = target (0 = paid, 1 = default event).
